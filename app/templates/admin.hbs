@@ -1,0 +1,63 @@
+<h1>This is a test of the site's model functionality</h1>
+
+{{#paper-form onSubmit=(action "createStory") as |form|}}
+  {{#paper-card as |card|}}
+
+    {{#card.content}}
+      <div class="layout layout-sm-row">
+        {{paper-input
+          class="flex-50"
+          label="Story name"
+          value=name
+          onChange=(action (mut name))
+          type="text"
+        }}
+      </div>
+
+      <div class="layout layout-sm-row">
+        {{paper-input
+          class="flex-50"
+          value=thumbnailImg
+          onChange=(action (mut thumbnailImg))
+          label="Thumbnail Img"
+          type="text"
+        }}
+
+        {{paper-input
+          class="flex-50"
+          value=creator
+          onChange=(action (mut creator))
+          label="Creator"
+          type="text"
+        }}
+      </div>
+
+      {{paper-input 
+        textarea=true 
+        block=true
+        label="Story Description" 
+        maxlength=400 
+        passThru=(hash rows=5 maxRows=5)
+        value=storyDescription 
+        onChange=(action (mut storyDescription))
+      }}
+    
+    {{#form.submit-button primary=true raised=true}}
+      Add a Story
+    {{/form.submit-button}}
+
+    {{/card.content}}
+  {{/paper-card}}
+{{/paper-form}}
+
+
+
+<p>Here is a list of models:</p>
+
+{{#each model as |storyItem|}}
+  {{story-listing story=storyItem}}
+  {{else}}
+  <p>Sorry, no stories were found!</p>
+{{/each}}
+
+{{outlet}}

@@ -1,5 +1,20 @@
-{{!-- The following component displays Ember's default welcome message. --}}
-{{welcome-page}}
-{{!-- Feel free to remove this! --}}
+{{#paper-toolbar}}
+  {{#paper-toolbar-tools}}
+    {{#link-to 'index'}}
+    {{#paper-button iconButton=true}}
+      {{paper-icon "book"}}
+    {{/paper-button}}
+    {{/link-to}}
+    <h2>
+      Storybooks
+    </h2>
+    <span class="flex"></span>
+    {{#link-to 'admin'}}
+      {{#paper-button iconButton=true}}
+        {{paper-icon "account circle"}}
+      {{/paper-button}}
+    {{/link-to}}
+  {{/paper-toolbar-tools}}
+{{/paper-toolbar}}
 
 {{outlet}}
