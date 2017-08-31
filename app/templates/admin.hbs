@@ -8,8 +8,8 @@
         {{paper-input
           class="flex-50"
           label="Story name"
-          value=name
-          onChange=(action (mut name))
+          value=formName
+          onChange=(action (mut formName))
           type="text"
         }}
       </div>
@@ -17,16 +17,16 @@
       <div class="layout layout-sm-row">
         {{paper-input
           class="flex-50"
-          value=thumbnailImg
-          onChange=(action (mut thumbnailImg))
+          value=formThumbnailImg
+          onChange=(action (mut formThumbnailImg))
           label="Thumbnail Img"
           type="text"
         }}
 
         {{paper-input
           class="flex-50"
-          value=creator
-          onChange=(action (mut creator))
+          value=formCreator
+          onChange=(action (mut formCreator))
           label="Creator"
           type="text"
         }}
@@ -38,8 +38,8 @@
         label="Story Description" 
         maxlength=400 
         passThru=(hash rows=5 maxRows=5)
-        value=storyDescription 
-        onChange=(action (mut storyDescription))
+        value=formStoryDescription 
+        onChange=(action (mut formStoryDescription))
       }}
     
     {{#form.submit-button primary=true raised=true}}

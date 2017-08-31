@@ -1,0 +1,1137 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"blo",
+				"blog_archive"
+			],
+			[
+				"webinar",
+				"webinar_ids"
+			],
+			[
+				"coma",
+				"compared_future"
+			],
+			[
+				"comp",
+				"compared_historical"
+			],
+			[
+				"insights",
+				"insights_future"
+			],
+			[
+				"g2",
+				"g2w_historical"
+			],
+			[
+				"ins",
+				"insights_historical"
+			],
+			[
+				"web",
+				"webinars_in_last_48_hrs"
+			],
+			[
+				"cla",
+				"cla\tclass .. end"
+			],
+			[
+				"cl",
+				"cla\tCreate controller class"
+			],
+			[
+				"futue",
+				"future_query"
+			],
+			[
+				"webinars",
+				"webinars_in_last_48_hrs"
+			],
+			[
+				"Got",
+				"GoToWebinarClient"
+			],
+			[
+				"get",
+				"get_detail"
+			],
+			[
+				"got",
+				"gotowebinar"
+			],
+			[
+				"job",
+				"job_title"
+			],
+			[
+				"attr",
+				"attr_reader"
+			],
+			[
+				"reg_",
+				"reg_key"
+			],
+			[
+				"res",
+				"response_body"
+			],
+			[
+				"respon",
+				"response_handler"
+			],
+			[
+				"org",
+				"organizer_key"
+			],
+			[
+				"gotowe",
+				"gotowebinar"
+			],
+			[
+				"req",
+				"req_url"
+			],
+			[
+				"Go",
+				"GoToWebinar"
+			],
+			[
+				"fut",
+				"future_webinars"
+			],
+			[
+				"goto",
+				"gotowebinar_client"
+			],
+			[
+				"registration",
+				"registrationDate"
+			],
+			[
+				"popula",
+				"populate_future_webinars"
+			],
+			[
+				"s",
+				"s_key"
+			],
+			[
+				"reg",
+				"registrantKey"
+			],
+			[
+				"regis",
+				"registrant"
+			],
+			[
+				"webina",
+				"webinar_key"
+			],
+			[
+				"Webinar",
+				"WebinarSession"
+			],
+			[
+				"Web",
+				"WebinarData"
+			],
+			[
+				"surveyScore",
+				"registrantSurveyScore"
+			],
+			[
+				"session",
+				"session_key"
+			],
+			[
+				"webinarSy",
+				"webinarSurveyCompletion"
+			],
+			[
+				"webinarAttend",
+				"webinarAttendancePercent"
+			],
+			[
+				"Webin",
+				"WebinarSession"
+			],
+			[
+				"attendee",
+				"attendeeList"
+			],
+			[
+				"pop",
+				"populate_attendees"
+			],
+			[
+				"to",
+				"to_insights"
+			],
+			[
+				"registra",
+				"registrants"
+			],
+			[
+				"tim",
+				"timeZone"
+			],
+			[
+				"re",
+				"registrantEmail"
+			],
+			[
+				"last",
+				"registrantLastName"
+			],
+			[
+				"get_att",
+				"get_attendees"
+			],
+			[
+				"registr",
+				"registrants"
+			],
+			[
+				"perc",
+				"percentageSurvey"
+			],
+			[
+				"att",
+				"attr_accessor"
+			],
+			[
+				"per",
+				"percentageSurvey"
+			],
+			[
+				"perce",
+				"percentageAttendance"
+			],
+			[
+				"perfo",
+				"performance"
+			],
+			[
+				"parse",
+				"parse_survey"
+			],
+			[
+				"arg",
+				"arg1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/routes/admin.js",
+			"settings":
+			{
+				"buffer_size": 1085,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/router.js",
+			"settings":
+			{
+				"buffer_size": 370,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/admin.hbs",
+			"settings":
+			{
+				"buffer_size": 1400,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/application.hbs",
+			"settings":
+			{
+				"buffer_size": 447,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/page.js",
+			"settings":
+			{
+				"buffer_size": 245,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/story.js",
+			"settings":
+			{
+				"buffer_size": 367,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nProject Specific Syntax Settings\n--------------------------------\n\n  Project Specific Syntax Settings\n  ================================\n  \n  This package allows syntax settings to be specified per project.\n  \n  In your `.sublime-project` file, you just need to add a `syntax_override` section, like so.\n  \n  ```json\n  {\n      ...\n  \n      \"syntax_override\": {\n          \"\\\\.html$\": [\"HTML Underscore Syntax\", \"HTML (Underscore)\"]\n      }\n  }\n  ```\n  \n  The `syntax_override` section can contain as many key/value pairs as you like.\n  \n  The easiest way to construct these key/value pairs is to open an existing file in your project, set the syntax you would like to use for that file with the `View > Syntax > ...` menus (or the command palette), right click in the file editor area, and select the `Project Specific Syntax > Copy syntax setting to clipboard` menu item. This menu item is also available via the command palette. Once copied to the clipboard, simply open your project file and paste the new key/value pair into the `syntax_override` section. Be sure to add any necessary commas to separate multiple key/value pairs so your project file is still valid JSON.\n  \n  If you need more control, you can construct your own key/value pairs. The key should be a regular expression that will be matched against the name of the file. Note that the `.` in `.html` has to be escaped to `\\.` since it will match any character otherwise. And since this is a JSON string, we need to escape the slash, so we end up with `\\\\.`.\n  \n  The value in the key/value pair should be an array containing two or more strings. All but the last string in this array are the names of the package directories containing the syntax file and the last is the name of the syntax. Root around in Sublime Text's directory structure to find files that end with `.tmLanguage`. The names of these files (minus the `.tmLanguage` extension) are what you would use for the last string. Typically, you will only have two strings, a directory name and the syntax file name (minus `.tmLanguage` file extension), but this is dependent on the package's directory structure.\n",
+			"settings":
+			{
+				"buffer_size": 2192,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "storybooks.sublime-project",
+			"settings":
+			{
+				"buffer_size": 173,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mirage/config.js",
+			"settings":
+			{
+				"buffer_size": 1275,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/templates/components/story-listing.hbs",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Extended)"
+			],
+			[
+				"glim",
+				"Set Syntax: Glimmer"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript (Extended)"
+			],
+			[
+				"glimm",
+				"Set Syntax: Glimmer"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"elix",
+				"Set Syntax: Elixir"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"eli",
+				"Set Syntax: Elixir"
+			],
+			[
+				"el",
+				"Set Syntax: Elixir"
+			],
+			[
+				"",
+				"Package Control: Enable Package"
+			],
+			[
+				"SETTINGS",
+				"Preferences: Settings - User"
+			],
+			[
+				"packa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"erl",
+				"Set Syntax: Erlang"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mnikolovski/Code/storybooks",
+		"/Users/mnikolovski/Code/storybooks/app",
+		"/Users/mnikolovski/Code/storybooks/app/models",
+		"/Users/mnikolovski/Code/storybooks/app/templates",
+		"/Users/mnikolovski/Code/storybooks/app/templates/components",
+		"/Users/mnikolovski/Code/storybooks/mirage",
+		"/Users/mnikolovski/Code/storybooks/mirage/factories",
+		"/Users/mnikolovski/Code/storybooks/mirage/models",
+		"/Users/mnikolovski/Code/storybooks/mirage/scenarios",
+		"/Users/mnikolovski/Code/storybooks/mirage/serializers"
+	],
+	"file_history":
+	[
+		"/Users/mnikolovski/Code/storybooks/storybooks.sublime-project",
+		"/Users/mnikolovski/Code/storybooks/mirage/factories/story.js",
+		"/Users/mnikolovski/Code/storybooks/mirage/config.js",
+		"/Users/mnikolovski/Code/storybooks/app/models/story.js",
+		"/Users/mnikolovski/Code/storybooks/mirage/models/story.js",
+		"/Users/mnikolovski/Code/storybooks/app/router.js",
+		"/Users/mnikolovski/Code/storybooks/mirage/scenarios/default.js",
+		"/Users/mnikolovski/Code/storybooks/app/templates/application.hbs",
+		"/Users/mnikolovski/Code/storybooks/config/environment.js",
+		"/Users/mnikolovski/Code/storybooks/app/controllers/admin.js",
+		"/Users/mnikolovski/Code/storybooks/app/templates/admin.hbs",
+		"/Users/mnikolovski/Code/storybooks/app/adapters/application.js",
+		"/Users/mnikolovski/Code/storybooks/app/components/admin-button.js",
+		"/Users/mnikolovski/Code/storybooks/app/models/page.js",
+		"/Users/mnikolovski/Code/ember-quickstart/app/templates/application.hbs",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/settings.js",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/publishSettings.js",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/searchcontent/scripts.js",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/content/5b658f3ee3464b32b383c06c26f6ad0e/4f83f8c66f68428f80e923f4bb0744fb/content.html",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/content/data.js",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/manifest.json",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/themeSettings.js",
+		"/Users/mnikolovski/Downloads/669e092ce16f4b96a3a83646deceefb4 20170710-23-11-52-UTC/app/app.js",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/logging.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/webinars.rb",
+		"/Users/mnikolovski/Code/wistia_to_insights/wistia_to_insights.py",
+		"/Users/mnikolovski/Documents/New Relic/Infrastructure Monitoring with New Relic and AWS",
+		"/Users/mnikolovski/Documents/New Relic/Infrastructure_script",
+		"/Users/mnikolovski/Documents/New Relic/FS_notes",
+		"/Users/mnikolovski/Code/example.theme/lms/static/sass/_overrides.scss",
+		"/Users/mnikolovski/.bash_profile",
+		"/Users/mnikolovski/Code/manage-users/optum_users.txt",
+		"/Users/mnikolovski/Code/manage-users/deleteUsersByEmail.js",
+		"/Users/mnikolovski/Code/manage-users/deleteUsers.js",
+		"/Users/mnikolovski/Code/manage-users/deleteUsers",
+		"/Users/mnikolovski/Code/manage-users/addUsers.js",
+		"/Users/mnikolovski/Code/generate-apm-data/generate-apm-data.sh",
+		"/Users/mnikolovski/Documents/New Relic/assessment-questions/README.md",
+		"/Users/mnikolovski/Documents/New Relic/support_questions/partner_support_qa_1-14.txt",
+		"/Users/mnikolovski/Documents/New Relic/support_questions/partner_support_qa_1-14.md",
+		"/Users/mnikolovski/Documents/New Relic/SPA_notes.md",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/attendees.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/version.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/gotowebinar/webinars_test.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/test_helper.rb",
+		"/Users/mnikolovski/Code/simpleMUD/simpleMUD.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/secrets.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar.rb",
+		"/Users/mnikolovski/Downloads/seed-data-venue-create.json",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights/webinar.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/surveyprocessing.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights/survey.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights/attendee.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/gotowebinar_client.gemspec",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/gotowebinar/registrations_test.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/registrations.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/gotowebinar_test.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/survey.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/surveys.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights/webinars.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/insights/registrations.rb",
+		"/Users/mnikolovski/Code/edx_check_test/Gemfile.lock",
+		"/Users/mnikolovski/Code/wearebigchill/README.md",
+		"/Users/mnikolovski/Documents/edx examples/dynamic questions",
+		"/Users/mnikolovski/Code/wearebigchill/Dockerfile",
+		"/Users/mnikolovski/Code/hubot-docker/deploy/deploy-student-bot.sh",
+		"/Users/mnikolovski/Code/hubot-docker/Dockerfile",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/sessions.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/fixtures/historical_webinars.yml",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/fixtures/registrations.yml",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/fixtures/registrant.yml",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/fixtures/webinar.yml",
+		"/Users/mnikolovski/Code/gotowebinar_client/test/gotowebinar_client_test.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/urls.rb",
+		"/Users/mnikolovski/Code/gotowebinar_to_insights/gotowebinar_to_insights.rb",
+		"/Users/mnikolovski/Code/gotowebinar_to_insights/helper_modules.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/gotowebinar.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/performance.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/gotowebinar/registrants.rb",
+		"/Users/mnikolovski/Code/gotowebinar_client/lib/gotowebinar_client/application.rb",
+		"/Users/mnikolovski/Code/scripts/multilocation_synth_monitor_alerting.js",
+		"/Users/mnikolovski/Code/scripts/multilocation_synth_monitor_alerting",
+		"/Users/mnikolovski/Code/wistia_to_insights/runtime.txt",
+		"/Users/mnikolovski/Code/wistia_to_insights/rub",
+		"/Users/mnikolovski/Code/wistia_to_insights/celeryconfig.py",
+		"/Users/mnikolovski/Code/gotowebinar_to_insights/config/schedule.rb",
+		"/Users/mnikolovski/Code/gotowebinar_to_insights/classy_gotowebinar.rb",
+		"/Users/mnikolovski/Code/gotowebinar_to_insights/Gemfile",
+		"/Users/mnikolovski/Code/openshift/generate-apm-data.sh",
+		"/Users/mnikolovski/Downloads/ServiceDefinition.csdef",
+		"/Users/mnikolovski/Code/elixir_advent/input.txt",
+		"/Users/mnikolovski/Code/elixir_advent/play.ex",
+		"/Users/mnikolovski/Code/webinarapi_ex/api.ex",
+		"/Users/mnikolovski/Code/elixirtv/e2.ex",
+		"/Users/mnikolovski/Code/elixirtv/e1.ex.erl",
+		"/Users/mnikolovski/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mnikolovski/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mnikolovski/Downloads/sample-data.dump"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/mnikolovski/Code/example.theme/lms",
+			"/Users/mnikolovski/Code/example.theme/lms/static/sass",
+			"/Users/mnikolovski/Code/example.theme/lms",
+			"/Users/mnikolovski/Code/example.theme/lms/templates",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"  {{else}}\n  <p>Sorry, no stories were found!</p>",
+			"this",
+			"story",
+			"model",
+			"    basicSubmitAction() {\n      store.createRecord('story', {\n        name: name,\n        thumbnailImg: thumbnailImg,\n        storyDescription: storyDescription,\n        creator: creator});\n    }",
+			"\n      ",
+			"placeholderUrl",
+			"videoUrl",
+			"submit",
+			".courseware-bookmarks-button",
+			"courseware-bookmarks-button",
+			".courseware-bookmarks-button",
+			"hero-home-page.png",
+			"hero-home-page",
+			"show_homepage_promo_video",
+			"Discussion",
+			"create_insights_vid",
+			"create_ins",
+			"receiv",
+			"GoToWebinarClient::GoToWebinar::Webinars",
+			"GoToWebinarClient::Insights",
+			"Engine",
+			"load_seed",
+			"Faker",
+			"faker",
+			"data",
+			"ins",
+			"req",
+			"return",
+			"webinars",
+			"GoToWebinar::",
+			"response_body",
+			"\"]\n",
+			"session_body",
+			"webinar.",
+			"refute_nil",
+			"future_webinars",
+			"result",
+			"assert GoToWebinarClient::GoToWebinar::Attendees",
+			"event_id",
+			"get_registrant",
+			"ebinarTy",
+			"insights_data",
+			"get_future_keys",
+			"registrantListItem",
+			"populate_registrants",
+			"populate_webinars",
+			"webinar_details",
+			"surveySc",
+			"webinar_body",
+			"session_details",
+			"webinar_details",
+			"GoToWebinar",
+			"w_key",
+			"3198741",
+			"registeredWebinar",
+			"binding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"webinarDetails"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/routes/admin.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								526,
+								526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript (Extended).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								333,
+								333
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript (Extended).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/templates/admin.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								809,
+								809
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Glimmer.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/templates/application.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								447,
+								447
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Glimmer.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/page.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 245,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								245,
+								245
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript (Extended).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/models/story.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								161
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript (Extended).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2192,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2192,
+								2192
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"tab_width": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "storybooks.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "mirage/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								279,
+								279
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript (Extended).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/templates/components/story-listing.hbs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								482,
+								482
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Glimmer.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "storybooks.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"project",
+				"storybooks.sublime-project"
+			],
+			[
+				"subl",
+				"storybooks.sublime-project"
+			],
+			[
+				"rout",
+				"app/router.js"
+			],
+			[
+				"page",
+				"app/models/page.js"
+			],
+			[
+				"conf",
+				"mirage/config.js"
+			],
+			[
+				"admin",
+				"app/templates/admin.hbs"
+			],
+			[
+				"story",
+				"mirage/factories/story.js"
+			],
+			[
+				"defau",
+				"mirage/scenarios/default.js"
+			],
+			[
+				"story-l",
+				"app/templates/components/story-listing.hbs"
+			],
+			[
+				"appl",
+				"app/adapters/application.js"
+			],
+			[
+				"config",
+				"mirage/config.js"
+			],
+			[
+				"router",
+				"app/router.js"
+			],
+			[
+				"applic",
+				"app/templates/application.hbs"
+			],
+			[
+				"envir",
+				"config/environment.js"
+			],
+			[
+				"scien",
+				"app/routes/scientists.js"
+			],
+			[
+				"appli",
+				"app/templates/application.hbs"
+			],
+			[
+				"scient",
+				"app/templates/scientists.hbs"
+			],
+			[
+				"spec",
+				"gotowebinar_client.gemspec"
+			],
+			[
+				"gems",
+				"gotowebinar_client.gemspec"
+			],
+			[
+				"he",
+				"test/test_helper.rb"
+			],
+			[
+				"hel",
+				"test/test_helper.rb"
+			],
+			[
+				"test",
+				"test/gotowebinar_client_test.rb"
+			],
+			[
+				"got",
+				"gotowebinar_to_insights.rb"
+			],
+			[
+				"py",
+				"wistia_to_insights.py"
+			],
+			[
+				"",
+				"helper_modules.rb"
+			],
+			[
+				"gho",
+				"gotowebinar_to_insights.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

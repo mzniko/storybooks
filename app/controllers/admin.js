@@ -1,13 +1,16 @@
 import Ember from 'ember';
 
 export default Ember.Controller.extend({
+  model() {
+    return this.store.createRecord('story')
+  },
   actions: {
     createStory() {
-      this.get('store').createRecord('story', {
-        name: this.model.name,
-        thumbnailImg: this.model.thumbnailImg,
-        storyDescription: this.model.storyDescription,
-        creator: this.model.creator});
+      this.store.createRecord('story', {
+        name: this.formName,
+        thumbnailImg: this.formThumbnailImg,
+        storyDescription: this.formStoryDescription,
+        creator: this.formCreator});
     }
   }
 });

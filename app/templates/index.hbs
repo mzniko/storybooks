@@ -1,0 +1,13 @@
+<div class="layout-row layout-fill">
+  <div class="layout-row flex-20">
+  </div>
+  <div class="layout-column layout-align-center-space-around flex">
+  {{#each model as |storyItem|}}
+    {{story-listing story=storyItem}}
+    {{else}}
+    <p>Sorry, no stories were found!</p>
+  {{/each}}
+  </div>
+  <div class="layout-row flex-20">
+  </div>
+</div>

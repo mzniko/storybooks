@@ -8,5 +8,6 @@ export default DS.Model.extend({
   // Attributes
   video_url: DS.attr(),
   placeholder_img: DS.attr(),
-  page_number: DS.attr()
+  page_number: DS.attr(),
+  chapter_number:DS.attr()
 });

@@ -5,6 +5,12 @@ export default function() {
     return schema.stories.all();
   });
 
+  this.post('/stories', (schema, request) => {
+    const attrs = JSON.parse(request.requestBody).stories;
+
+    return schema.stories.create(attrs);
+  });
+
   // this.get('/story', function() {
   //   return {
   //     data: [{
