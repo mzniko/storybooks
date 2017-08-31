@@ -1,13 +1,14 @@
-<div class="layout-align-center">
+<div class="layout-column layout-align">
 {{#paper-card as |card|}}
+  {{card.image size="lg" src=story.thumbnailImg alt="Book" title="Book"}}
   {{#card.title as |title|}}
     {{#title.text as |text|}}
       {{#text.headline}}{{story.name}}{{/text.headline}}
-      {{#text.subhead}}{{story.creator}}{{/text.subhead}}
-      {{#text.subhead}}{{story.storyDescription}}{{/text.subhead}}
     {{/title.text}}
-    {{title.media size="lg" src=story.thumbnailImg alt="Book" title="Book"}}
   {{/card.title}}
+  {{#card.content}}
+    <p>{{story.storyDescription}}</p>
+  {{/card.content}}
   {{#card.actions}}
     {{#paper-button}}Edit{{/paper-button}}
     {{#paper-button}}Delete{{/paper-button}}
